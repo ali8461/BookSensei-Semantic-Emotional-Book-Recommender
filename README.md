@@ -2,7 +2,7 @@
 
 BookSensei is an end-to-end AI pipeline that transforms a raw books dataset into an intelligent recommender system powered by:
 
-* 🔍 **Semantic search** (OpenAI embeddings + Chroma DB)
+* 🔍 **Semantic search** (Langchain + OpenAI embeddings + Chroma DB)
 * 😊 **Emotion extraction from descriptions**
 * 🏷️ **Zero-shot category classification**
 * 📊 **Data cleaning and feature engineering**
